@@ -1,0 +1,81 @@
+/* quiz2 css file*/
+
+
+
+body {
+    font-family: Arial, Helvetica, sans-serif; 
+  }
+table, th, td {
+    border:1px solid black;
+    border-collapse:collapse;
+    width: 200px
+}
+h1{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+h2{
+    width: 10 px;
+    font-family: 'Ceviche one', cursive;
+
+}
+
+h3{
+    width: 10px
+}
+
+h4{
+    font-family:'Irish Grover', cursive;
+    font-size:larger
+}
+
+
+
+footer {
+    display: flex;
+    justify-content: center;
+    padding: 1px;
+    background-color:white;
+    color:blueviolet;
+    
+}
+
+h3:hover {
+    cursor: pointer;
+}
+
+h1:hover{
+    cursor:pointer
+}
+
+
+.white {
+    color:white;
+    background-color: transparent;
+
+}
+
+h4.a{
+    text-align: center;
+
+}
+
+#draggable { display:block; width: 100px; height: 100px; padding: 0.5em; float: left; margin: 10px 10px 10px 0; clear:both; }
+#droppable { display:block; width: 150px; height: 150px; padding: 0.5em; float: left; margin: 10px; clear:both; }
+					
+#resizable { width: 150px; height: 150px; padding: 0.5em; display:block; float:left; clear:both; }
+#resizable h3 { text-align: center; margin: 0; }
+
+#sortable { list-style-type: none; margin: 0; padding: 0; width: 60%; display:block; clear:both;}
+#sortable li { margin: 0 3px 3px 3px; padding: 0.4em; padding-left: 1.5em; font-size: 1.4em; height: 18px; }
+#sortable li span { position: absolute; margin-left: -1.3em; }
+			
+pre { display:none; }
+			
+#home {
+		float:right;
+		font-size:1.2em;
+		padding-right:20px;	
+        }
