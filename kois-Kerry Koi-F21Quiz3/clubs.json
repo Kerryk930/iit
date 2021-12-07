@@ -1,0 +1,31 @@
+[
+	{
+		"abbr": "RAS",
+		"name": "Astrophysical Society",
+		"web": "https://astro.union.rpi.edu/",
+		"desc": "The Rensselaer Astrophysical Society (RAS) allows students to pursue their interest in astronomy. The society works in conjunction with the physics department to maintain the Hirsch Observatory atop the Science Center. Students are trained in the use of observatory and the Society's various telescopes, then placed on the observatory key list. Once on the key list, members can use the observatory at any time. The club also helps run Saturday night public observing sessions between February and November of each year.",
+		"time": "Mondays at 9pm",
+		"loc": "Library",
+		"cat": "Science",
+		"image": "../images/Astro.jpg"
+	},
+	{
+		"abbr": "RDI",
+		"name": "Dance Team",
+		"web": "https://astro.union.rpi.edu/",
+		"desc": "RPI Dance Team is a group of students who share a love for dance and performance. We promote school spirit by performing jazz, pom, and hip hop numbers at home football games, home basketball games, and other school events. We also compete annually in the spring.",
+		"time": "Wednesdays at 7pm",
+		"loc": "Mueller Center",
+		"cat": "Dance",
+		"image": "../images/dance.jpg"
+	},
+	{
+		"abbr": "RDI",
+		"name": "Super Smash Bros Club",
+		"web": "https://www.facebook.com/groups/RPISmash/",
+		"desc": "A club for the enjoyment of Super Smash Bros, from both the competitive and the casual side. For more information PLEASE CONTACT our club officers: ssb@union.lists.rpi.edu",
+		"time": "Sundays at 2pm",
+		"loc": "Union",
+		"cat": "Gaming",
+		"image": "../images/smashbros.jpg"
+	},
